@@ -3,7 +3,7 @@
 
 [github项目地址](https://github.com/yaxueliu/blockchain-vulnerability-detection)
 
-[项目文档](https://github.com/yaxueliu/blockchain-vulnerability-detection)
+[项目文档](https://github.com/yaxueliu/blockchain-vulnerability-detection/blob/main/README.md)
 
 ## 小组成员
 
