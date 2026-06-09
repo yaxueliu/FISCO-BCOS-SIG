@@ -11,6 +11,8 @@
 
 [项目文档](https://github.com/yaxueliu/blockchain-vulnerability-detection/blob/main/README.md)
 
+[漏洞数据集样本](https://github.com/yaxueliu/blockchain-vulnerability-detection/tree/main/dataset_140_samples_v1.0)
+
 ### 技术架构
 
 
